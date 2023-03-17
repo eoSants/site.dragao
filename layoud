@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ 
+   
+<div style=" height:100px; background-color: brown;">
+ 
+  <img style="position:relative; left:600px; top:1000px height: 600px;width:600px;;"src="https://logosmarcas.net/wp-content/uploads/2021/02/Dragon-Ball-Logo.png"  alt="" >
+
+</div>
+   
+
+
+    <video src=""></video> 
+    <iframe width="1260" height="628" src="https://www.youtube.com/embed/hyivmODpxdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <p>comentario</p>
+<input type="text">
+
+ <button   width="1260" height="628"style="height: 50px; width: 100px;">enviar</button>
+ <div style=" height:150px; background-color: brown;"> 
+
+</body>
+</html>
